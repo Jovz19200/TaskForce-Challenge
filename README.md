@@ -13,14 +13,14 @@
 # What to expect?
 - a good looking responsive and yet interactive photo Gallery
 
-## Array Manipulation
+## 1.2 Array Manipulation
 # How to test the function
 - RUN cd Challenges in the terminal
 - RUN node target.js
 - OutPut: Target found when there a subarray with sum which is equal to targe and vice versa.
 - adjust the inputs to measure the level of correctness
 
-## String Manipulation
+## 1.3 String Manipulation
 # how to test the function 
 - RUN node stringManipulation.js
 - adjust the inputs to measure the level of correctness
